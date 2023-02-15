@@ -1,0 +1,2 @@
+python-rtmidi
+adafruit-circuitpython-neopixel
